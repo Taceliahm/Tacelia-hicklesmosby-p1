@@ -1,0 +1,44 @@
+body{
+    font-family: 'Cinzel', serif;
+}
+p{
+     font-family: sans-serif;
+     float: none;
+     border: 5px solid #ee3e80;
+     padding: 20px;
+     width: 275px;
+     border-radius: 10px;
+     -moz-border-radius: 10px;
+     -webkit-border-radius: 10px;
+     font-size: 110%;
+     position: relative;
+     
+    
+}
+    ol{
+         width: 230px;
+         float:inline-end;
+         margin: 5px;
+         font-family: sans-serif;
+    }
+    h1{
+        font-family: 'Cinzel',serif;
+        color: deeppink;
+        font: size 50px;
+
+        }
+
+    h2{
+        font-family:cursive;
+        width: 275px;
+        
+    }
+    h3{
+        font-family: cursive;
+        text-align: inherit;
+    }
+    
+      h6 {
+          font-family: cursive;
+          font-size: 1.5em;
+      }
